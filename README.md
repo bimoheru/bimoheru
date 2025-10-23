@@ -26,5 +26,6 @@
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="IG" width="50"/>
 </p>
 
+---
 
 ![ini gambar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZU1HGYUQLGwR6WlLVH_sW5xtCMtQl1kkceA&s)
