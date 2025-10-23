@@ -21,7 +21,7 @@
 
 ## Find me at
 <p align="left";
-  <a href="https://tinyurl.com/mydiscord5">
+  <a href="https://discord.gg/vYwEn5xseE">
      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"/>
   </a>
   &nbsp;&nbsp;
