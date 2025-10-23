@@ -20,8 +20,8 @@
 ---
 
 ## Find me at
-<p align="left">
-  <a href="https://cdn.discordapp.com/attachments/694139452901031936/1430900948951105667/watermark.png?ex=68fb75db&is=68fa245b&hm=19c15010b406863c062ec434b3e0e8cc38ee19e6ff5dc2bc66166d051d2d827f&>
+<p align="left";
+  <a href="https://tinyurl.com/mydiscord5"
      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"/>
   </a>
   &nbsp;&nbsp;
