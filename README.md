@@ -20,11 +20,8 @@
 ---
 
 ## Find me at
-<p align="left";
-        <a href="https://discord.gg/vYwEn5xseE" target="_blank">
-          <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-        </a>
-  &nbsp;&nbsp;
+  <a href="https://discord.gg/vYwEn5xseE">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
  <a href= "https://www.instagram.com/b.imzz/">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="IG" width="50"/>
 </p>
