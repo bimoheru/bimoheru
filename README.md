@@ -13,7 +13,7 @@
 ## Lagi diajar 
 <p align="left"
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,css,html" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,css,html" />
   </a>
 </p>
 
